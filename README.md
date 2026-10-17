@@ -123,7 +123,7 @@ Hola
 Feliz Jueves
 ```
 
-### Condiciones
+### Condiciones (que se separan con !! )
 
 `sin` ejecuta las instrucciones si dos valores numéricos son iguales.
 
